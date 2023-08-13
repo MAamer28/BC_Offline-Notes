@@ -15,7 +15,7 @@ d3.json(url).then(function(response) {
   //console.log(response);
   features = response.features;
 
-  console.log(features);
+  //console.log(features);
 
   // Comment this line in to render all 80,000 markers
   // let marker_limit = features.length;
